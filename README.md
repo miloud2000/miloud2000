@@ -208,7 +208,7 @@ miloud2000#9511
 
   ## My Contribution Graph Get Eaten By the Snake 🐍:
   <!-- <img align='center' src='https://github.com/miloud2000/miloud2000/blob/output/github-contribution-grid-snake.gif' width='900"'> -->
-   <img align='center' src='./snk.gif' width='900" autoplay'>
+   <img align='center' src='./snk.gif' width='900' autoplay>
   
   
   <br>
