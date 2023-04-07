@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="./cover.png" alt="miloud2000" />
+<img align="center" width="100%" src="./Miloud(1).png" alt="miloud2000" />
 <img align="right" src="https://komarev.com/ghpvc/?username=miloud2000&label=Profile%20views&color=blueviolet&style=flat-plastic" alt="miloud2000" />
 
 
