@@ -202,9 +202,6 @@ miloud2000#9511
   
 <div align="center">
   
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=churchill&font=default)
-  
-  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   <br>
   
