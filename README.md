@@ -1,5 +1,5 @@
-<img align="center" width="100%" src="./cover.png" alt="ubmagh" />
-<img align="right" src="https://komarev.com/ghpvc/?username=ubmagh&label=Profile%20views&color=blueviolet&style=flat-plastic" alt="ubmagh" />
+<img align="center" width="100%" src="./cover.png" alt="miloud2000" />
+<img align="right" src="https://komarev.com/ghpvc/?username=miloud2000&label=Profile%20views&color=blueviolet&style=flat-plastic" alt="miloud2000" />
 
 
 > I like coding by night, interested in everything :D
@@ -24,30 +24,30 @@
     <tbody>
       <tr>
         <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubmagh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ubmagh" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miloud2000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="miloud2000" />
         </td>
         <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ubmagh&show_icons=true&theme=tokyonight&locale=en" alt="ubmagh" style="margin: 0px auto;" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=miloud2000&show_icons=true&theme=tokyonight&locale=en" alt="miloud2000" style="margin: 0px auto;" />
         </td>
       </tr>
       <tr>
         <td colspan="2">
           <div align="center" width="100%" style="width=100%">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubmagh&show_icons=true&theme=tokyonight" alt="ubmagh" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miloud2000&show_icons=true&theme=tokyonight" alt="miloud2000" />
           </div>
         </td>
       </tr>
       <tr>
         <td colspan="2">
           <div align="center" width="100%" style="width=100%">
-            <img src="https://github-profile-trophy.vercel.app/?username=ubmagh&show_icons=true&theme=tokyonight">
+            <img src="https://github-profile-trophy.vercel.app/?username=miloud2000&show_icons=true&theme=tokyonight">
           </div>
         </td>
       </tr>
     </tbody>
   </table>
   
-![Metrics](https://metrics.lecoq.io/ubmagh?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Africa%2FCasablanca)     
+![Metrics](https://metrics.lecoq.io/miloud2000?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Africa%2FCasablanca)     
 
 <hr>
   
@@ -144,7 +144,7 @@
 <div align="center">
 
 
-<a href="mailto://ubmagh@gmail.com" target="_blank">
+<a href="mailto://miloud2000@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
@@ -153,8 +153,8 @@
 </a>
 
 
-<a href="https://twitter.com/ubmagh" target="blank">
-<img src="https://img.shields.io/twitter/follow/ubmagh?logo=twitter&style=for-the-badge" alt="ubmagh" />
+<a href="https://twitter.com/miloud2000" target="blank">
+<img src="https://img.shields.io/twitter/follow/miloud2000?logo=twitter&style=for-the-badge" alt="miloud2000" />
 </a> 
 
 
@@ -182,9 +182,9 @@
 </a>
 
 <div>
-<a href="http://localhost/my-username_is/ubmagh#9511" target="_blank">
+<a href="http://localhost/my-username_is/miloud2000#9511" target="_blank">
 <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-ubmagh#9511
+miloud2000#9511
 </a>
 </div>
 
@@ -207,7 +207,7 @@ ubmagh#9511
   <br>
   
   ## my contribution graph get eaten by the snake 🐍:
-  <img align='center' src='https://github.com/ubmagh/ubmagh/blob/output/github-contribution-grid-snake.gif' width='900"'>
+  <img align='center' src='https://github.com/miloud2000/miloud2000/blob/output/github-contribution-grid-snake.gif' width='900"'>
   
   <br>
 </div>
