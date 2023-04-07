@@ -145,11 +145,11 @@
 <div align="center">
 
 
-<a href="mailto://miloud2000@gmail.com" target="_blank">
+<a href="mailto://echarkimiloud18@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ayoub-maghdaoui/" target="_blank">
+<a href="https://www.linkedin.com/in/miloud-echarki-5b6b76205/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
@@ -159,34 +159,34 @@
 </a> 
 
 
-<a href="https://www.codewars.com/users/scoma" target="_blank">
+<a href="https://www.codewars.com/users/akira" target="_blank">
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars Badge"/>
 </a>
 
-<a href="https://leetcode.com/scoma/" target="_blank">
+<a href="https://leetcode.com/akira/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/>
 </a>
   
-<a href="https://www.hackerrank.com/Scoma" target="_blank">
+<a href="https://www.hackerrank.com/akira" target="_blank">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
 </a>
   
-  
+<!--   
 <a href="https://www.codingame.com/profile/e878cb3aa282e65025ac5cebc6c948769174544" target="_blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodinGame&color=222222&logo=CodinGame&logoColor=F2BB13&label=" alt="HackerRank Badge"/>
-</a>
+</a> -->
 
 
   
-<a href="https://tryhackme.com/p/scoma" target="_blank">
+<!-- <a href="https://tryhackme.com/p/scoma" target="_blank">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge" alt="TryHackMe Badge"/>
-</a>
+</a> -->
 
 <div>
-<a href="http://localhost/my-username_is/miloud2000#9511" target="_blank">
+<!-- <a href="http://localhost/my-username_is/miloud2000#9511" target="_blank">
 <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 miloud2000#9511
-</a>
+</a> -->
 </div>
 
   
