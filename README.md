@@ -118,7 +118,7 @@
   ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23326ce5.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
   ![logstash](https://img.shields.io/badge/logstash-%23326ce5.svg?style=for-the-badge&logo=logstash&logoColor=white)
   ![docker-compose](https://img.shields.io/badge/docker--compose-%23326ce5.svg?style=for-the-badge&logo=docker-compose&logoColor=white)
-  ![redhat](https://img.shields.io/badge/redhat-%23326ce5.svg?style=for-the-badge&logo=redhat&logoColor=white)
+  ![redhat](https://img.shields.io/badge/redhat-red.svg?style=for-the-badge&logo=redhat&logoColor=white)
 
   
   ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white)
