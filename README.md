@@ -197,7 +197,7 @@ miloud2000#9511
 
 <br>
 
-<details>
+
   <summary> <h2> 🦆 More fun stuff </h2> </summary>
   
 <div align="center">
@@ -213,7 +213,7 @@ miloud2000#9511
   <br>
 </div>
   <hr>
-</details>
+
 
 <p align="center">
 <img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
