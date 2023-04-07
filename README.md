@@ -117,12 +117,18 @@
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  <!-- add kibana --> 
+  ![Kibana](https://img.shields.io/badge/kibana-%23326ce5.svg?style=for-the-badge&logo=kibana&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23326ce5.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+  ![logstash](https://img.shields.io/badge/logstash-%23326ce5.svg?style=for-the-badge&logo=logstash&logoColor=white)
+  ![docker-compose](https://img.shields.io/badge/docker--compose-%23326ce5.svg?style=for-the-badge&logo=docker-compose&logoColor=white)
+  ![redhat](https://img.shields.io/badge/redhat-%23326ce5.svg?style=for-the-badge&logo=redhat&logoColor=white)
+
   
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=for-the-badge)
-  ![Apache Hadoop Badge](https://img.shields.io/badge/Apache%20Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=for-the-badge)
   
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -207,7 +213,7 @@ miloud2000#9511
 
   <br>
   
-  ## my contribution graph get eaten by the snake 🐍:
+  ## My Contribution Graph Get Eaten By the Snake 🐍:
   <!-- <img align='center' src='https://github.com/miloud2000/miloud2000/blob/output/github-contribution-grid-snake.gif' width='900"'> -->
    <img align='center' src='./snk.gif' width='900"'>
   
