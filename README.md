@@ -14,7 +14,7 @@
 <details>
   <summary> <h2> :trophy: Github Stats </h2> </summary>
   
-  <a href="https://profile-summary-for-github.com/user/ubmagh" target="_blank">
+  <a href="https://profile-summary-for-github.com/user/miloud2000" target="_blank">
     👉 Profile summary
   </a>
   
