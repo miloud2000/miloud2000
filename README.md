@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="./cover.png" alt="miloud2000" />
 <img align="right" src="https://komarev.com/ghpvc/?username=miloud2000&label=Profile%20views&color=blueviolet&style=flat-plastic" alt="miloud2000" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5F7F6&width=435&lines=I'm+Miloud+Echarki;I'm+from+Casablanca%2C++Morocco;I'm+a+software+engineer+;I+like+coding+by+night%2C+interested+in+everything+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5F7F6&width=600&lines=I'm+Miloud+Echarki;I'm+from+Casablanca%2C++Morocco;I'm+a+software+engineer+;I+like+coding+by+night%2C+interested+in+everything+%3AD)](https://git.io/typing-svg)
 
 <p align="center">
 <img  style="margin: 0 auto; display:block;" width="45%" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
