@@ -45,8 +45,9 @@
     </tbody>
   </table>
   
-![Metrics](https://metrics.lecoq.io/miloud2000?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Africa%2FCasablanca)
-  
+<div " width="100%" style="width=100%">
+            <img src="./github-metrics.svg">
+   </div>
 
 <hr>
   
