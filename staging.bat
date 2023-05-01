@@ -2,6 +2,6 @@
 title "Staging"
 git pull
 git add . 
-git commit -m "Staging"
+git commit -m "Commiting changes "
 git push -f origin  main
 @echo off
